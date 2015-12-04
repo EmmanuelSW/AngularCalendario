@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "day": "Lunes",
+      "class": "11-2",
+      "teacher": "Mr Polaino",
+      "subject": "Polainas"
+    },
+    {
+      "id": 2,
+      "day": "Martes",
+      "class": "6-1",
+      "teacher": "Mr Polaino",
+      "subject": "Sistemas"
+    },
+     {
+      "id": 3,
+      "day": "Miercoles",
+      "class": "7-5",
+      "teacher": "Mr Polaino",
+      "subject": "Polainas"
+    },
+    {
+      "id": 4,
+      "day": "Jueves",
+      "class": "8-6",
+      "teacher": "Juan David",
+      "subject": "Ingles"
+    },
+    {
+      "id": 5,
+      "day": "Viernes",
+      "class": "6-3",
+      "teacher": "Miguel",
+      "subject": "Matematicas"
+    },
+    {
+      "id": 6,
+      "day": "Lunes",
+      "class": "7-3",
+      "teacher": "Emmanuel",
+      "subject": "Ciencias"
+    },
+    {
+      "id": 7,
+      "day": "Lunes",
+      "class": "9-2",
+      "teacher": "Miguel",
+      "subject": "Maternidad"
+    },
+    {
+      "id": 8,
+      "day": "Martes",
+      "class": "9-1",
+      "teacher": "Miguel",
+      "subject": "Porrismo"
+    },
+    {
+      "id": 9,
+      "day": "Miercoles",
+      "class": "9-1",
+      "teacher": "Chuco",
+      "subject": "EdFisica"
+    },
+    {
+      "id": 10,
+      "day": "Jueves",
+      "class": "11-2",
+      "teacher": "Juan David",
+      "subject": "Programacion"
+    },
+    {
+      "id": 11,
+      "day": "Viernes",
+      "class": "6-3",
+      "teacher": "Toña",
+      "subject": "Porrismo"
+    },
+    {
+      "id": 12,
+      "day": "Lunes",
+      "class": "7-2",
+      "teacher": "Toña",
+      "subject": "Ciencias"
+    },
+    {
+      "id": 13,
+      "day": "Martes",
+      "class": "9-5",
+      "teacher": "Emmanuel",
+      "subject": "Fisica"
+    },
+    {
+      "id": 14,
+      "day": "Miercoles",
+      "class": "10-1",
+      "teacher": "Chuco",
+      "subject": "Sociales"
+    },
+    {
+      "id": 15,
+      "day": "Jueves",
+      "class": "10-1",
+      "teacher": "Juan David",
+      "subject": "QUimica"
+    }
+  ]
+}
